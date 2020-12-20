@@ -2,8 +2,6 @@
 
 ## Vanilla JS 
 
-### Web app Todo List
-
 #### Add
 #### Remove
 
