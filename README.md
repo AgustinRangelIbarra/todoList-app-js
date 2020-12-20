@@ -2,7 +2,4 @@
 
 ## Vanilla JS 
 
-#### Add
-#### Remove
-
 ### Uso de Almacenamiento local
